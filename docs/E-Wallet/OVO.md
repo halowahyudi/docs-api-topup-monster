@@ -8,7 +8,11 @@ sidebar_position: 2
 
 Endpoint: `https://api.topup.monster/check/ovo`
 
-Format Nomor: `085123XXXXXX`
+:::warning Format Nomor
+
+### 0851XXXXXX
+
+:::
 
 ```php
 <?php
