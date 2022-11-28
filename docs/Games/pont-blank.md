@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Point Blank
+# Point Blank ✅
 
 ## HTTP GET
 

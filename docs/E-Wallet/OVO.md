@@ -2,11 +2,13 @@
 sidebar_position: 2
 ---
 
-# Super Sus ✅
+# OVO ✅
 
 ## HTTP GET
 
-Endpoint: `https://api.topup.monster/check/supersus`
+Endpoint: `https://api.topup.monster/check/ovo`
+
+Format Nomor: `085123XXXXXX`
 
 ```php
 <?php
@@ -14,7 +16,7 @@ Endpoint: `https://api.topup.monster/check/supersus`
 $curl = curl_init();
 
 curl_setopt_array($curl, array(
-  CURLOPT_URL => 'https://api.topup.monster/check/supersus?user_id=xxx&api_key=xxx',
+  CURLOPT_URL => 'https://api.topup.monster/check/ovo?number=xxx&api_key=xxx',
   CURLOPT_RETURNTRANSFER => true,
   CURLOPT_ENCODING => '',
   CURLOPT_MAXREDIRS => 10,

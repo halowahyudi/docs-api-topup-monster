@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Call Of Duty Mobile
+# Call Of Duty Mobile ✅
 
 ## HTTP GET
 

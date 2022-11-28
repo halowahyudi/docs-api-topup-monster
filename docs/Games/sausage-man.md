@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Sausage Man
+# Sausage Man ✅
 
 ## HTTP GET
 

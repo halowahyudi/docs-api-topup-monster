@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Free Fire
+# Free Fire ✅
 
 ## HTTP GET
 

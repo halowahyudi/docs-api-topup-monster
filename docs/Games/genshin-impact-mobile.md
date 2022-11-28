@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Genshin Impact Mobile
+# Genshin Impact Mobile ✅
 
 ## HTTP GET
 
